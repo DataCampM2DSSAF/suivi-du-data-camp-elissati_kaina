@@ -15,7 +15,7 @@
  * Supprimer les doublant de train et test
  * Supprimer les colonnes qui ont plus de 90% des valeurs manquantes
  - Imputation des valeurs manquantes par la moyenne : nous allons remplir les valeurs manquantes en utilisant la technique du mode mais il faut faire attention au varaible qualitative qui sont inimputable par la moyenne
- - On a fait mapping et aggregation de E-mail et P-mail
+ -  Mapping et aggregation de E-mail et P-mail (pipline)
 
 ## L'objective de la semaine prochaine:
 - Imputaion des valeurs manquantes par KNN 
@@ -34,19 +34,21 @@
 ## L'objective de la semaine prochaine:
 - Data exploration et visualisation
 - Décodage des données qualitatives
-- Etude de corrélation pour les variables imputées 
+- Etude de corrélation  
  - Continuer la rédaction du rapport 
  
 ## Semaine 4
 - Data exploration et visualisation: estimation des distributions des variables continues pour isfraud = 0 et y 001, et réalisation de statistique bivariés
 - Décodage des données qualitatives: transformation qualitatives en des variables binaire en eevitant la multicolinéarité.
-- Etude de corrélation entre les variables de la base imputée par KNN et celle imputée par mode-mean
+- Etude de corrélation entre les variables de la base imputée par KNN et celles imputées par mode-mean
 
 ## L'objective de la semaine prochaine:
 - Split
-- Implémentation LGBM without ACP
+- Implémentation LGBM (without ACP)
 - XGboost
 
 ## Semaine 4
-- Implémentation lgbm sur la base mean_mode et LGBM sur la base KNN 
-- Implémentation XGboost pour les mêmes bases 
+- Implémentation lgbm sur la base mean_mode et LGBM sur la base KNN
+- Implémentation lgbm sur la base mean_mode et LGBM sur la base KNN  ( LGBM avec spécification de number of leaves==5 , num_boost_round=100 : corresponds to the number of boosting rounds or trees to build )
+- Implémentation LGBM with Hyper Parametres optimized  ( en cours)
+- Implémentation XGboost pour les mêmes bases  ( en cours)
