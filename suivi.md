@@ -5,8 +5,9 @@
 - Concaténer identity et transaction, puis faire extraire la variable cible et variables explicatives.
 
 ## L'objective de la semaine prochaine:
-- Réduction de la mémoire(kaoutar)
-- Traitement des valeur manquantes (Mohamed)
+- Réduction de la mémoire
+- Traitement des valeur manquantes Mean-Mode
+- Observation IsFraud (Imbalanced Data)
 - Codage des variables nominatives
 
 ## Semaine 2:
