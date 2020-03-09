@@ -51,5 +51,5 @@
 ## Semaine 4 : High-powered Machine Learning model for unbalanced datasets
 - Implémentation lgbm sur la base mean_mode et LGBM sur la base KNN
 - Implémentation lgbm sur la base mean_mode et LGBM sur la base KNN  ( LGBM avec spécification de number of leaves==5 , num_boost_round=100 : corresponds to the number of boosting rounds or trees to build )
-- Implémentation LGBM with Hyper Parametres optimized  ( en cours)
+- Implémentation LGBM with Hyper Parametres optimized via scikit-learn's GridSearchCV
 - Implémentation XGboost pour les mêmes bases  ( en cours)
