@@ -52,4 +52,5 @@
 - Implémentation lgbm sur la base mean_mode et LGBM sur la base KNN
 - Implémentation lgbm sur la base mean_mode et LGBM sur la base KNN  ( LGBM avec spécification de number of leaves==5 , num_boost_round=100 : corresponds to the number of boosting rounds or trees to build )
 - Implémentation LGBM with Hyper Parametres optimized via scikit-learn's GridSearchCV
+-LGBM classifier with cross validation (en cours)
 - Implémentation XGboost pour les mêmes bases  ( en cours)
