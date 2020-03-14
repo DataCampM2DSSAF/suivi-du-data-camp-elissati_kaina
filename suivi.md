@@ -54,3 +54,5 @@
 - Implémentation LGBM with Hyper Parametres optimized via scikit-learn's GridSearchCV or Baysian Optimizer 
 - LGBM classifier with cross validation via API avec des hyper-paramétres optimisés (seuelemnt sur la base imputée par KNN)+ programation de la fonction de Full prédiction de probababilité et de Full prédiction des classes d'appartenance
 - LGBM classifier with cross validation programmé manuellement avec des hyper-paramétres optimisés (seuelemnt sur la base imputée par KNN) + programation de la fonction de Full prédiction de probababilité et de Full prédiction des classes d'appartenance
+
+## Semaine 5: Implémentation d'autre méthode de Machine learning et Deep Learning : ( en cours)
