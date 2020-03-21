@@ -62,4 +62,6 @@
  - split de jeu de données
  - implémentation de KNN pour différentes K afin de choisir celui qui maximise accuracy de validation en tenant compte le sur    apprentissage 
  - implémentation KNN pour le meilleur K.
+ - report classification et coubre de roc
+ - Cross Validation pour résoudre le probléme de sur apprentissage  
  - submission 
