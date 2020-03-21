@@ -49,14 +49,14 @@
 - Implémentation LGBM (without ACP)
 - XGboost (on ne le implémentera plus car il se focalise presque sur le meme principe de fonctionnement de LGBM)
 
-## Semaine 4 : High-powered Machine Learning model for unbalanced datasets
+## Semaine 4-5 : High-powered Machine Learning model for unbalanced datasets
 - Implémentation lgbm sur la base mean_mode et LGBM sur la base KNN
 - Implémentation lgbm sur la base mean_mode et LGBM sur la base KNN  ( LGBM avec spécification de number of leaves==5 , num_boost_round=100 : corresponds to the number of boosting rounds or trees to build )
 - Implémentation LGBM with Hyper Parametres optimized via scikit-learn's GridSearchCV or Baysian Optimizer 
 - LGBM classifier with cross validation via API avec des hyper-paramétres optimisés (seuelemnt sur la base imputée par KNN)+ programation de la fonction de Full prédiction de probababilité et de Full prédiction des classes d'appartenance
 - LGBM classifier with cross validation programmé manuellement avec des hyper-paramétres optimisés (seuelemnt sur la base imputée par KNN) + programation de la fonction de Full prédiction de probababilité et de Full prédiction des classes d'appartenance
 
-## Semaine 5: Implémentation d'autre méthode de Machine learning :
+## Semaine 6: Implémentation d'autre méthode de Machine learning :
  - clibrage de la varaible 'isFRaud' par la méthode undersampling
  - normalisation et standardisation des variable continue 
  - split de jeu de données
