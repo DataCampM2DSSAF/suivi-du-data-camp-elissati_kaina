@@ -49,7 +49,7 @@
 - Implémentation LGBM (without ACP)
 - XGboost (on ne le implémentera plus car il se focalise presque sur le meme principe de fonctionnement de LGBM)
 
-## Semaine 4-5 : High-powered Machine Learning model for unbalanced datasets
+## Semaine 5 : High-powered Machine Learning model for unbalanced datasets
 - Implémentation lgbm sur la base mean_mode et LGBM sur la base KNN
 - Implémentation lgbm sur la base mean_mode et LGBM sur la base KNN  ( LGBM avec spécification de number of leaves==5 , num_boost_round=100 : corresponds to the number of boosting rounds or trees to build )
 - Implémentation LGBM with Hyper Parametres optimized via scikit-learn's GridSearchCV or Baysian Optimizer 
