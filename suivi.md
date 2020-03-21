@@ -24,6 +24,7 @@
 
 ## Semaine 3
 - Imputaion des valeurs manquantes par KNN:
+*step0 : scaling 
 * Step1: Subsets the object's data types(all) into another container
 * Step2: Change np.NaN into an object data type, say None. Now, the container is made up of only objects data types
 * Step3: Change the entire container into categorical datasets
@@ -46,7 +47,7 @@
 ## L'objective de la semaine prochaine:
 - Split
 - Implémentation LGBM (without ACP)
-- XGboost
+- XGboost (on ne le implémentera plus car il se focalise presque sur le meme principe de fonctionnement de LGBM)
 
 ## Semaine 4 : High-powered Machine Learning model for unbalanced datasets
 - Implémentation lgbm sur la base mean_mode et LGBM sur la base KNN
@@ -55,4 +56,10 @@
 - LGBM classifier with cross validation via API avec des hyper-paramétres optimisés (seuelemnt sur la base imputée par KNN)+ programation de la fonction de Full prédiction de probababilité et de Full prédiction des classes d'appartenance
 - LGBM classifier with cross validation programmé manuellement avec des hyper-paramétres optimisés (seuelemnt sur la base imputée par KNN) + programation de la fonction de Full prédiction de probababilité et de Full prédiction des classes d'appartenance
 
-## Semaine 5: Implémentation d'autre méthode de Machine learning et Deep Learning : ( en cours)
+## Semaine 5: Implémentation d'autre méthode de Machine learning :
+ - clibrage de la varaible 'isFRaud' par la méthode undersampling
+ - normalisation et standardisation des variable continue 
+ - split de jeu de données
+ - implémentation de KNN pour différentes K afin de choisir celui qui maximise accuracy de validation en tenant compte le sur    apprentissage 
+ - implémentation KNN pour le meilleur K.
+ - submission 
