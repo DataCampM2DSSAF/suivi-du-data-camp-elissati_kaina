@@ -56,7 +56,7 @@
 - LGBM classifier with cross validation via API avec des hyper-paramétres optimisés (seuelemnt sur la base imputée par KNN)+ programation de la fonction de Full prédiction de probababilité et de Full prédiction des classes d'appartenance
 - LGBM classifier with cross validation programmé manuellement avec des hyper-paramétres optimisés (seuelemnt sur la base imputée par KNN) + programation de la fonction de Full prédiction de probababilité et de Full prédiction des classes d'appartenance
 
-## Semaine 6: Implémentation d'autre méthode de Machine learning :
+## Semaine 6: Implémentation d'autre méthode de Machine learning ( KNN avec RandomUnderSempler):
  - clibrage de la varaible 'isFRaud' par la méthode undersampling
  - normalisation et standardisation des variable continue 
  - split de jeu de données
@@ -66,3 +66,5 @@
  - submission
  - optimization de tuninig paramètres par Cross Validation  
  - sélection du meilleur paramètre ( c'est le meme paramètre selectionée visuellement)
+ ##  Semaine 7: Implémentation d'autre méthode de Machine learning ( KNN avec RandomOverSempler):
+ - on applique la meme méthode de la semaine 6 mais avec jeu de donnée calibrée par over sampler
