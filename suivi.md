@@ -68,3 +68,12 @@
  - sélection du meilleur paramètre ( c'est le meme paramètre selectionée visuellement)
  ##  Semaine 7: Implémentation d'autre méthode de Machine learning ( KNN avec RandomOverSempler):
  - on applique la meme méthode de la semaine 6 mais avec jeu de donnée calibrée par over sampler
+ - clibrage de la varaible 'isFRaud' par la méthode undersampling
+ - normalisation et standardisation des variable continue 
+ - split de jeu de données
+ - implémentation de KNN pour différentes K afin de choisir celui qui maximise accuracy de validation en tenant compte le sur    apprentissage 
+ - implémentation KNN pour le meilleur K ( sélectionné visuellement).
+ - report classification et coubre de roc
+ - submission
+ ***optimization de tuninig paramètres par Cross Validation ( étape dépassée)  
+ ***sélection du meilleur paramètre ( c'est le meme paramètre selectionée visuellement) ( étape dépassée)
