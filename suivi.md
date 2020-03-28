@@ -64,16 +64,16 @@
  - implémentation KNN pour le meilleur K ( sélectionné visuellement).
  - report classification et coubre de roc
  - submission
- - optimization de tuninig paramètres par Cross Validation  
+ - optimisation de tuninig paramètres par Cross Validation  
  - sélection du meilleur paramètre ( c'est le meme paramètre selectionée visuellement)
  ##  Semaine 7: Implémentation d'autre méthode de Machine learning ( KNN avec RandomOverSempler):
- - on applique la meme méthode de la semaine 6 mais avec jeu de donnée calibrée par over sampler
+ - on applique la même méthode de la semaine 6 mais avec jeu de donnée calibrée par over sampler
  - clibrage de la varaible 'isFRaud' par la méthode undersampling
- - normalisation et standardisation des variable continue 
+ - normalisation et standardisation des variables continues 
  - split de jeu de données
- - implémentation de KNN pour différentes K afin de choisir celui qui maximise accuracy de validation en tenant compte le sur    apprentissage 
+ - implémentation de KNN pour différentes valeurs de K afin de choisir la valeur qui maximise l'accuracy de la validation en tenant compte le sur apprentissage 
  - implémentation KNN pour le meilleur K ( sélectionné visuellement).
  - report classification et coubre de roc
  - submission
- ***optimization de tuninig paramètres par Cross Validation ( étape dépassée)  
- ***sélection du meilleur paramètre ( c'est le meme paramètre selectionée visuellement) ( étape dépassée)
+ ***optimisation de truning paramètres par Cross Validation ( étape dépassée)  
+ ***sélection du meilleur paramètre ( c'est le même paramètre selectioné visuellement) ( étape dépassée)
