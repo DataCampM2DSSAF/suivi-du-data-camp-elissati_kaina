@@ -12,8 +12,8 @@
 
 ## Semaine 2:
 - D'apès la visualisation de nos données on remarque que 97,19% des transaction sont non frauduleuses et juste 2,81% des transactions frauduleuses alors si on utilise cette base de données pour nos études avec les modèles prédictifs nous allons obtenir énormement d'erreurs.
-- Le traitement des valeurs manquantes dans les dataframe et les doublantes:
- * Supprimer les doublant de train et test
+- Le traitement des valeurs manquantes dans les dataframe et les doublons:
+ * Supprimer les doublond de train et test
  * Supprimer les colonnes qui ont plus de 90% des valeurs manquantes
  - Imputation des valeurs manquantes par la moyenne : nous allons remplir les valeurs manquantes en utilisant la technique du mode mais il faut faire attention au varaible qualitative qui sont inimputable par la moyenne
  -  Mapping et aggregation de E-mail et P-mail (pipline)
