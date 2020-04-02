@@ -11,7 +11,7 @@
 - Codage des variables nominatives
 
 ## Semaine 2:
-- D'apès la visualisation de nos données on remarque que 97,19% des transaction sont non frauduleuses et juste 2,81% des transactions frauduleuses alors si on utilise cette base de données pour nos études avec les modèles prédictifs nous allons obtenir énormement d'erreurs.
+- D'apès la visualisation de nos données on remarque que 97,19% des transaction sont non frauduleuses et juste 2,81% des transactions frauduleuses alors si on utilise cette base de données pour nos études avec les modèles prédictifs classiques nous allons obtenir des fausses prédictions.
 - Le traitement des valeurs manquantes dans les dataframe et les doublons:
  * Supprimer les doublons de train et test
  * Supprimer les colonnes qui ont plus de 90% des valeurs manquantes
