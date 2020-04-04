@@ -1,4 +1,6 @@
 ## Membre de groupe
+ #### Une Compétition sur Kaggle IEEE-CIS Fraud Detection supervisée par les profs : Pr. Agathe GUILLOUX et Pr. Simon BUSSY
+
 
 EL ISSATI Kaoutar
 
