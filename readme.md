@@ -15,6 +15,6 @@ Dans ce projet notre objective est de déterminer les meuilleurs méthodes pour 
 ## submission 
 ### La Liste des scores des submissions soumises sur Kaggle 
 
-![alt tag](https://user-images.githubusercontent.com/59772055/78245812-668d6a80-74e8-11ea-84bb-83edeecd989d.png)
-
-![alt tag](https://user-images.githubusercontent.com/59772055/78245864-7a38d100-74e8-11ea-9447-928258725c6e.png)
+![alt tag](https://user-images.githubusercontent.com/59772055/78460516-ba9f7700-76c1-11ea-864c-845851679634.png)
+![alt tag](https://user-images.githubusercontent.com/59772055/78460543-fe927c00-76c1-11ea-86fb-3b7855e82a5b.png)
+![alt tag](https://user-images.githubusercontent.com/59772055/78460562-1964f080-76c2-11ea-9b49-ebb9bc7930d9.png)
